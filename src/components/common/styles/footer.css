@@ -8,11 +8,6 @@
 	align-items: center;
 }
 
-.footer-links,
-.footer-credits {
-	flex-basis: 50%;
-}
-
 .footer-links {
 	margin-left: -40px;
 }
@@ -26,7 +21,7 @@
 
 .footer-nav-link-item {
 	font-weight: bold;
-	font-size: 80%;
+	font-size: 50%;
 }
 
 .footer-nav-link-list a {
