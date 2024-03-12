@@ -3,12 +3,7 @@ import { Helmet } from "react-helmet";
 
 import { faMailBulk } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {
-	faTwitter,
-	faGithub,
-	faStackOverflow,
-	faInstagram,
-} from "@fortawesome/free-brands-svg-icons";
+import { faGithub } from "@fortawesome/free-brands-svg-icons";
 
 import Logo from "../components/common/logo";
 import Footer from "../components/common/footer";
@@ -122,16 +117,6 @@ const Homepage = () => {
 									className="homepage-social-icon"
 								/>
 							</a>
-							{/* <a
-								href={INFO.socials.stackoverflow}
-								target="_blank"
-								rel="noreferrer"
-							>
-								<FontAwesomeIcon
-									icon={faStackOverflow}
-									className="homepage-social-icon"
-								/>
-							</a> */}
 							<a
 								href={`mailto:${INFO.main.email}`}
 								target="_blank"
