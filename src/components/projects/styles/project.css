@@ -55,6 +55,17 @@
 	padding-top: 20px;
 }
 
+.btn {
+	display: inline;
+	background: none;
+	color: var(--link-color);
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+}
+
 .project-link-icon {
 	padding-left: 5px;
 	font-size: 13px;
