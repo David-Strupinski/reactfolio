@@ -5,10 +5,13 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import { BrowserRouter } from "react-router-dom";
 
+const packageJson = require("../package.json");
+const homeUrl = packageJson.name;
+
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
 	<React.StrictMode>
-		<BrowserRouter>
+		<BrowserRouter basename={`/${homeUrl}`}>
 			<App />
 		</BrowserRouter>
 	</React.StrictMode>
