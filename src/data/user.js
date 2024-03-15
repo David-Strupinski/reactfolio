@@ -50,7 +50,7 @@ const INFO = {
 				  proof-of-concept.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/swift/swift.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/UWSocialComputing/D-NA-code",
 		},
 
 		{
