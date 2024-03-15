@@ -34,7 +34,7 @@ const INFO = {
 				This was mainly an exercise in learning how to use new technologies from scratch, encouraging myself to do it by reading the \
 				docs and not relying on tutorials. Overall, I was very happy with the result, and made a simple React front-end to \
 				show it off, as well as topping it off with some management commands such as making importing data easier.",
-			logo: "../react.png",
+			logo: "react.png",
 			linkText: "View Project",
 			link: "https://github.com",
 		},
@@ -64,7 +64,7 @@ const INFO = {
 				versions of dependencies, and how to properly implement a secure OAuth system, where I used django-oauth-toolkit and took \
 				the opportunity to learn the new OAuth 2.0 flow. I believe that this makes this project one of my most important, as it \
 				was a high pressure learning experience and taught me a lot about the functions of web security.",
-			logo: "../django.png",
+			logo: "django.png",
 			linkText: "View Project",
 			link: "https://github.com/uw-it-aca/spotseeker_server/tree/django-upgrade",
 		},
@@ -82,7 +82,7 @@ const INFO = {
 				correctly and to their standards. This project was a huge success, saving the 8 hours every week a HAAT employee was doing \
 				to update the data. I learned a lot about the importance of creating modularizable and testable code, which saved this project \
 				from being a nightmare to maintain. Since then, the project has been up-and-running, requiring almost no maintenance.",
-			logo: "../vue.png",
+			logo: "vue.png",
 			linkText: "View Project",
 			link: "https://github.com/uw-it-aca/handshake-provisioner",
 		},
@@ -97,7 +97,7 @@ const INFO = {
 				timestamps to the database and used Django's built-in caching system to reduce the number of queries. I also \
 				added lazy loading for the images of the technology items to improve the initial load time of the page, while also \
 				improving overall user experience.",
-			logo: "../django.png",
+			logo: "django.png",
 			linkText: "View Project",
 			link: "https://github.com/uw-it-aca/scout-manager/tree/django-upgrade",
 		},
