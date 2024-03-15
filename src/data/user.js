@@ -18,7 +18,7 @@ const INFO = {
 	},
 
 	about: {
-		title: "I'm David Strupinski I live in Seattle, WA, where I design the future.",
+		title: "I'm David Strupinski. I live in Seattle, where I design the future.",
 		description:
 			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
 	},
@@ -29,7 +29,7 @@ const INFO = {
 			description:
 				"For this personal project, I mainly tried to learn how to use the features of the Django REST Framework I hadn't \
 				used as much before - such as the serializers and viewsets - and I tried to use the SQLAlchemy ORM as opposed to Django's \
-				to see its lure. The project was built around a simple technical interview question about taking in JSON data with \
+				to understand its lure. The project was built around a simple technical interview question about taking in JSON data with \
 				many objects with amounts and \"rolling them up\" into objects based on certain criteria and summing their amounts. \
 				This was mainly an exercise in learning how to use new technologies from scratch, encouraging myself to do it by reading the \
 				docs and not relying on tutorials. Overall, I was very happy with the result, and made a simple React front-end to \
@@ -66,7 +66,7 @@ const INFO = {
 				was a high pressure learning experience and taught me a lot about the functions of web security.",
 			logo: "../django.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/uw-it-aca/spotseeker_server/tree/django-upgrade",
 		},
 
 		{
@@ -84,7 +84,7 @@ const INFO = {
 				from being a nightmare to maintain. Since then, the project has been up-and-running, requiring almost no maintenance.",
 			logo: "../vue.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/uw-it-aca/handshake-provisioner",
 		},
 
 		{
@@ -99,7 +99,7 @@ const INFO = {
 				improving overall user experience.",
 			logo: "../django.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/uw-it-aca/scout-manager/tree/django-upgrade",
 		},
 
 		{
@@ -115,7 +115,7 @@ const INFO = {
 				one of the original developers of Barrelfish, and I'm proud to say that we passed with flying colors.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/David-Strupinski/OS-Capstone",
 		},
 
 		{
@@ -123,7 +123,7 @@ const INFO = {
 			description:
 				"For this project, I worked with UX developers at UW-IT to create a new interface for the Mailman 3 mailing list \
 				that was customized for UW's needs, as well as fleshing out accessibility features. I was responsible for researching \
-				and implementing all the accessibility (or a11y) features for the application. I learned a lot about the importance of \
+				and implementing all the accessibility (a11y) features for the application. I learned a lot about the importance of \
 				accessibility in web applications, and how to implement these features in a way that is both effective and efficient. \
 				Django templates with HTML was mainly what I worked with, and while the project was successful, the decision to roll \
 				back and try to push our features directly to the official GNU Mailman was made for maintenance reasons.",
@@ -135,13 +135,13 @@ const INFO = {
 		{
 			title: "Spotify Helper",
 			description:
-				"This was my first project where I actually has sort of a sense of what I was doing. I created a simple Bash \
+				"This was my first project where I actually had sort of a sense of what I was doing. I created a simple Python \
 				script that would run in the background of a Windows machine and would automatically close and restart Spotify \
-				whenever an ad would play. I didn't have the premium version, clearly, and it worked incredibly well, but has since \
+				whenever an ad would play. This would skip all the ads and move to the next song. I didn't have the premium version, clearly, and it worked incredibly well, but has since \
 				broken in new updates.",
-			logo: "../bash.png",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/David-Strupinski/Spotify-Helper",
 		},
 	],
 };
