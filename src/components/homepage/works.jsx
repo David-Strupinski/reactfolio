@@ -15,7 +15,7 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
-								src="./uw.png"
+								src="/reactfolio/uw.png"
 								alt="uw"
 								className="work-image"
 							/>
