@@ -36,7 +36,7 @@ const INFO = {
 				show it off, as well as topping it off with some management commands such as making importing data easier.",
 			logo: "/reactfolio/react.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/David-Strupinski/data-rollup/tree/main",
 		},
 
 		{
