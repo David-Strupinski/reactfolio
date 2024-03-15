@@ -1,6 +1,6 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
+		title: "Portfolio by David",
 		name: "David Strupinski",
 		email: "david.strupinski@gmail.com",
 		logo: "../logo.png",
@@ -12,7 +12,7 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Full-stack web developer, amateur photographer.",
+		title: "Full-stack developer, amateur photographer.",
 		description:
 			"I am a backend-focused full stack developer with expertise in Django. I have experience in building scalable, secure, and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards.",
 	},
