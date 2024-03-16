@@ -10,6 +10,7 @@
 
 .footer-links {
 	margin-left: -40px;
+	text-align: left;
 }
 
 .footer-nav-link-list {
@@ -31,6 +32,11 @@
 
 .footer-nav-link-list a:hover {
 	color: var(--link-color);
+}
+
+.footer-credits {
+	text-align: right;
+	padding-left: 1em;
 }
 
 .footer-credits-text {
