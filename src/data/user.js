@@ -50,7 +50,7 @@ const INFO = {
 				  proof-of-concept.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/swift/swift.png",
 			linkText: "View Project",
-			link: "https://github.com/UWSocialComputing/D-NA-code",
+			link: "https://github.com/David-Strupinski/Snoozer",
 		},
 
 		{
@@ -129,7 +129,7 @@ const INFO = {
 				back and try to push our features directly to the official GNU Mailman was made for maintenance reasons.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/uw-it-aca/uw-mailman3-web/tree/8c378101b07df5ddeef1061112068946dd3c224d",
 		},
 
 		{
